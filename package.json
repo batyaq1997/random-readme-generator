@@ -1,0 +1,26 @@
+{
+"name": "random-readme-generator",
+"version": "1.0.0",
+"description": "a simple tool to generate random README files for your projects. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/batyaq1997/random-readme-generator.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "batyaq1997",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
